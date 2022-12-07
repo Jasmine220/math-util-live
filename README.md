@@ -1,6 +1,6 @@
-#Welcome to Math-Util repository
+# Welcome to Math-Util repository
 
-##You will find in this repo the following stuff:
+## You will find in this repo the following stuff:
 
 * NetBeans Apache Ant project including JUnit Test
 * .gitignore file for NetBeans project
