@@ -20,6 +20,9 @@ public class MathUtilLive {
         //mày/hàm ai đó viết khi chạy thực tế là mấy - actual: giả sử 120
         //if expected == actual, hàm ngon trong tình huống này
         //MathUtil.getFatorial(-5); ném ngoại lệ
+                System.out.println("expected: 5! = 120; actual: " + result);
+        System.out.println("expected: 5! = 120; actual: " + result);
+
         
 
     }
